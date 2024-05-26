@@ -3,7 +3,6 @@
 	color: lime;
     text-align: center;
 }
-
 .section-screen {
     /* 100 vh si usa per prendere tutto lo spazio diponibile, e lo uso per ogni sezione*/
     height:100vh;
